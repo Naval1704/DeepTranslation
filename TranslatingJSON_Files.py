@@ -20,9 +20,8 @@ def AutoTranslate(input_file, output_file, lang):
 
 
 input_file = 'en.json'
-output_file_en = 'en1.json'
-# output_file_hi = 'hi.json'
+output_file_hi = 'hi.json'
 # output_file_te = 'te.json'
 # output_file_mr = 'mr.json'
 
-AutoTranslate(input_file, output_file_en, 'en')
+AutoTranslate(input_file, output_file_hi, 'hi')
